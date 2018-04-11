@@ -15,6 +15,7 @@ Status of supported JSDoc tags on Webstorm by versions.
 | [@type](http://usejsdoc.org/tags-type.html)       | `@param {number} [foo=1]` | ✅ 2017.3.4 | 2018-04-11 |
 | [@type](http://usejsdoc.org/tags-type.html)       | `@callback myCallback` | ✅ 2017.3.4 | 2018-04-11 |
 | [@type](http://usejsdoc.org/tags-type.html)       | @typedef | 🔴 2017.3.4 | 2018-04-11 |
+| [@type](http://usejsdoc.org/tags-type.html)       | [Elena's example](https://intellij-support.jetbrains.com/hc/en-us/community/posts/206321309-How-to-properly-define-JSDoc-for-an-object-with-methods-) | ✅ 2017.3.4 | 2018-04-11 |
 | [@typedef](http://usejsdoc.org/tags-typedef.html) | Using the @typedef tag    | ✅ 2017.3.4 | 2018-04-11 |
 
 # References
